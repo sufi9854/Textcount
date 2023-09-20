@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Textcount/static/css/main.bfc42bfb.css",
+    "main.js": "/Textcount/static/js/main.a95d2cb9.js",
+    "static/js/787.719ec76d.chunk.js": "/Textcount/static/js/787.719ec76d.chunk.js",
+    "index.html": "/Textcount/index.html",
+    "main.bfc42bfb.css.map": "/Textcount/static/css/main.bfc42bfb.css.map",
+    "main.a95d2cb9.js.map": "/Textcount/static/js/main.a95d2cb9.js.map",
+    "787.719ec76d.chunk.js.map": "/Textcount/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfc42bfb.css",
+    "static/js/main.a95d2cb9.js"
+  ]
+}
